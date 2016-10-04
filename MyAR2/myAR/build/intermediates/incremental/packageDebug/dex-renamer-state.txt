@@ -1,0 +1,7 @@
+#Mon Oct 03 17:13:41 CST 2016
+base.0=F\:\\projection\\androidpro\\MyAR2\\myAR\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ad670ed0a61e03a67a2e1e6c64fc37013ad1e292
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\projection\\androidpro\\MyAR2\\myAR\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_fb499d4587b746bf1023cab88ff275b682cacbcd\\classes.dex
+base.1=F\:\\projection\\androidpro\\MyAR2\\myAR\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_fb499d4587b746bf1023cab88ff275b682cacbcd
+file.0=F\:\\projection\\androidpro\\MyAR2\\myAR\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ad670ed0a61e03a67a2e1e6c64fc37013ad1e292\\classes.dex
